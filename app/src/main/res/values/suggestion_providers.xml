@@ -17,6 +17,7 @@
     <string-array name="pref_suggestions_provider_entries" translatable="false">
         <item>Baidu</item>
         <item>Bing</item>
+        <item>Qwant</item>
         <item>DuckDuckGo</item>
         <item>Google</item>
         <item>Yahoo</item>
@@ -26,6 +27,7 @@
     <string-array name="pref_suggestions_provider_entryvalues" translatable="false">
         <item>BAIDU</item>
         <item>BING</item>
+        <item>QWANT</item>
         <item>DUCK</item>
         <item>GOOGLE</item>
         <item>YAHOO</item>

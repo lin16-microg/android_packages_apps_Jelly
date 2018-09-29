@@ -35,6 +35,7 @@ public final class PrefsUtils {
     public enum SuggestionProviderType {
         BAIDU,
         BING,
+        QWANT,
         DUCK,
         GOOGLE,
         YAHOO,

@@ -134,6 +134,8 @@ public class SuggestionsAdapter extends BaseAdapter implements Filterable {
                     return new BaiduSuggestionProvider();
                 case BING:
                     return new BingSuggestionProvider();
+                case QWANT:
+	            return new QwantSuggestionProvider();
                 case DUCK:
                     return new DuckSuggestionProvider();
                 case GOOGLE:
